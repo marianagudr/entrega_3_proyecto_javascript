@@ -89,7 +89,9 @@ td {
     display: none;
 }
 .referencia {
-    color: #ce0a45;
+    color: #f0f87d;
+    background-color: #df4271;
+    border-radius: 5px;
     font-weight: bold;
     font-size: 1rem;
 }

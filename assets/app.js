@@ -152,6 +152,7 @@ function ocultarBoton1() {
 }
 
 // Eventos
+
 $(document).ready(function(){
     $("#efecto4").slideDown(500);
     $("#efecto1").slideDown(500);
@@ -161,6 +162,7 @@ boton1.on("click", ocultarBoton1);
 botonEnviar.on("click", guardarPedido);
 tamano1.on("focus", mostrarRefTamano);
 
+// Lógica
 
 imprimirPedido();
 
